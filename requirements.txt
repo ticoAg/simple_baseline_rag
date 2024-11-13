@@ -4,3 +4,5 @@ uvicorn
 fastapi
 pydantic
 transformers
+python-dotenv
+cachetools
