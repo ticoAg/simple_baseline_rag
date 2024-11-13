@@ -1,0 +1,6 @@
+openai
+chonkie[all]
+uvicorn
+fastapi
+pydantic
+transformers
